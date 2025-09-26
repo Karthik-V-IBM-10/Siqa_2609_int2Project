@@ -13,17 +13,18 @@
     <value name="WmJDBCAdapter">10.3.0.0.34</value>
     <value name="SSL_JDBC_Test">1.0</value>
     <value name="JMS2waySSL">1.0</value>
+    <value name="JMSTest">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">19</value>
+  <value name="build">20</value>
   <null name="description"/>
   <value name="created_date">26-09-2025 05:56:21 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-09-26T06:22:48.064692991Z</value>
+  <value name="lastUpdated">2025-09-26T06:23:49.269867204Z</value>
   <value name="wmProjectId">fl44c3e8485a79d5370a1bbc</value>
   <value name="creator">siqa auto</value>
 </Values>
